@@ -1,1 +1,7 @@
 c:\users\arshiakohanteb\documents\visual studio 2015\Projects\Bubble Sorting\Bubble Sorting\bin\Debug\Bubble Sorting.exe.config
+C:\Users\ArshiaKohanteb\Documents\GitHub\Bubble Sorting\Bubble Sorting\bin\Debug\Bubble Sorting.exe.config
+C:\Users\ArshiaKohanteb\Documents\GitHub\Bubble Sorting\Bubble Sorting\bin\Debug\Bubble Sorting.exe
+C:\Users\ArshiaKohanteb\Documents\GitHub\Bubble Sorting\Bubble Sorting\bin\Debug\Bubble Sorting.pdb
+C:\Users\ArshiaKohanteb\Documents\GitHub\Bubble Sorting\Bubble Sorting\obj\Debug\Bubble Sorting.csprojResolveAssemblyReference.cache
+C:\Users\ArshiaKohanteb\Documents\GitHub\Bubble Sorting\Bubble Sorting\obj\Debug\Bubble Sorting.exe
+C:\Users\ArshiaKohanteb\Documents\GitHub\Bubble Sorting\Bubble Sorting\obj\Debug\Bubble Sorting.pdb
